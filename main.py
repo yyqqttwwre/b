@@ -1,5 +1,5 @@
-from telebot import (TeleBot,types)
-from random import (choice,randint)
+from telebot import types
+from random import choice,randint
 from names import get_first_name,get_full_name,get_last_name
 from gzip import decompress
 from time import sleep
