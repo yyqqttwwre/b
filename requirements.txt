@@ -1,0 +1,5 @@
+telebot
+pyfiglet
+requests
+telethon
+websocket-client
